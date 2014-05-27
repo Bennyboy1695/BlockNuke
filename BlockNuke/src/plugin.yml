@@ -1,0 +1,15 @@
+name: BlockNuke
+version: 1.2
+main: me.Blackace.BlockNuke.BlockNuke
+author: Black Ace
+commands: 
+  destroy:
+    description: Destroys a block at the target location. Location must include the world.
+  worldname:
+    description: Gives current world name.
+  entitykill:
+    description: Currently Broken. DO NOT USE!
+  chunkdestroy:
+    description: Destroys blocks by ID Meta within a given chunk. Arguements- <World> <x> <z> <BlockID|Meta>
+  getblock:
+    description: Gets block ID at the given World and Location. Args- <World> <x> <y> <z>
