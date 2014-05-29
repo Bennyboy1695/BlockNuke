@@ -13,3 +13,7 @@ Commands:
 /getblock world x y z - Gets the blocks type and metadata value at the given location. Useful so you know what your about to destroy.
 
 /entitykill world chunkX chunkZ - Gets the chunk at the CHUNK location (differs from block location) and removes all entities in that chunk except players. ALL of them.
+
+Direct Download:
+
+https://www.dropbox.com/s/3fzfmzqyeqcwln4/BlockNuke_1.2.jar
